@@ -1,0 +1,41 @@
+2021-01-30 18:20:09 [INFO] [demo] Starting WonderApplication on QQQ-home with PID 7412 (D:\programData\wonder\wonder-admin\target\classes started by kousq in D:\programData\wonder)
+2021-01-30 18:20:09 [INFO] [demo] No active profile set, falling back to default profiles: default
+2021-01-30 18:29:34 [INFO] [demo] Starting WonderApplication on QQQ-home with PID 7656 (D:\programData\wonder\wonder-admin\target\classes started by kousq in D:\programData\wonder)
+2021-01-30 18:29:34 [INFO] [demo] No active profile set, falling back to default profiles: default
+2021-01-30 18:31:30 [INFO] [demo] Starting WonderApplication on QQQ-home with PID 1332 (D:\programData\wonder\wonder-admin\target\classes started by kousq in D:\programData\wonder)
+2021-01-30 18:31:30 [INFO] [demo] No active profile set, falling back to default profiles: default
+2021-01-30 18:32:26 [INFO] [demo] Starting WonderApplication on QQQ-home with PID 14544 (D:\programData\wonder\wonder-admin\target\classes started by kousq in D:\programData\wonder)
+2021-01-30 18:32:26 [INFO] [demo] No active profile set, falling back to default profiles: default
+2021-01-30 18:32:27 [INFO] [demo] Initializing ProtocolHandler ["http-nio-127.0.0.1-8080"]
+2021-01-30 18:32:27 [INFO] [demo] Starting service [Tomcat]
+2021-01-30 18:32:27 [INFO] [demo] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-01-30 18:32:27 [INFO] [demo] Initializing Spring embedded WebApplicationContext
+2021-01-30 18:32:28 [INFO] [demo] Init DruidDataSource
+2021-01-30 18:32:28 [INFO] [demo] Stopping service [Tomcat]
+2021-01-30 18:40:08 [INFO] [demo] Starting WonderApplication on QQQ-home with PID 15320 (D:\programData\wonder\wonder-admin\target\classes started by kousq in D:\programData\wonder)
+2021-01-30 18:40:08 [INFO] [demo] No active profile set, falling back to default profiles: default
+2021-01-30 18:40:09 [INFO] [demo] Initializing ProtocolHandler ["http-nio-127.0.0.1-8080"]
+2021-01-30 18:40:09 [INFO] [demo] Starting service [Tomcat]
+2021-01-30 18:40:09 [INFO] [demo] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-01-30 18:40:09 [INFO] [demo] Initializing Spring embedded WebApplicationContext
+2021-01-30 18:40:09 [INFO] [demo] Init DruidDataSource
+2021-01-30 18:40:10 [INFO] [demo] {dataSource-1} inited
+2021-01-30 18:40:10 [INFO] [demo] Starting ProtocolHandler ["http-nio-127.0.0.1-8080"]
+2021-01-30 18:40:10 [INFO] [demo] Pausing ProtocolHandler ["http-nio-127.0.0.1-8080"]
+2021-01-30 18:40:10 [INFO] [demo] Stopping service [Tomcat]
+2021-01-30 18:40:10 [INFO] [demo] Stopping ProtocolHandler ["http-nio-127.0.0.1-8080"]
+2021-01-30 18:40:10 [INFO] [demo] Destroying ProtocolHandler ["http-nio-127.0.0.1-8080"]
+2021-01-30 18:40:10 [INFO] [demo] {dataSource-1} closed
+2021-01-30 18:40:31 [INFO] [demo] Starting WonderApplication on QQQ-home with PID 9292 (D:\programData\wonder\wonder-admin\target\classes started by kousq in D:\programData\wonder)
+2021-01-30 18:40:31 [INFO] [demo] No active profile set, falling back to default profiles: default
+2021-01-30 18:40:32 [INFO] [demo] Initializing ProtocolHandler ["http-nio-127.0.0.1-8088"]
+2021-01-30 18:40:32 [INFO] [demo] Starting service [Tomcat]
+2021-01-30 18:40:32 [INFO] [demo] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-01-30 18:40:32 [INFO] [demo] Initializing Spring embedded WebApplicationContext
+2021-01-30 18:40:32 [INFO] [demo] Init DruidDataSource
+2021-01-30 18:40:32 [INFO] [demo] {dataSource-1} inited
+2021-01-30 18:40:33 [INFO] [demo] Starting ProtocolHandler ["http-nio-127.0.0.1-8088"]
+2021-01-30 18:40:33 [INFO] [demo] Started WonderApplication in 2.139 seconds (JVM running for 3.342)
+2021-01-30 18:40:33 [INFO] [demo] 教学管理系统————基于 Spring Boot 2.2.6.RELEASE !
+2021-01-30 18:40:33 [INFO] [demo] 启动成功!  耗时:2秒!
+2021-01-30 18:40:56 [INFO] [demo] Initializing Spring DispatcherServlet 'dispatcherServlet'
