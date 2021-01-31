@@ -37,15 +37,13 @@
           <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <!--排除内置tomcat-->
-            <!--            <exclusions>-->
-            <!--                <exclusion>-->
-            <!--                    <groupId>org.springframework.boot</groupId>-->
-            <!--                    <artifactId>spring-boot-starter-tomcat</artifactId>-->
-            <!--                </exclusion>-->
-            <!--            </exclusions>-->
-            <!--            去掉spring自带的日志依赖spring-boot-starter-logging-->
             <exclusions>
+              <!--排除内置tomcat-->
+              <exclusion>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-tomcat</artifactId>
+              </exclusion>
+              <!--去掉spring自带的日志依赖spring-boot-starter-logging-->
               <exclusion>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-starter-logging</artifactId>

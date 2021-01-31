@@ -11,11 +11,11 @@ import org.springframework.web.bind.annotation.RestController;
  * Modified By:
  */
 @RestController
-@RequestMapping("/base")
+@RequestMappng("/base")
 public class Login {
 
     @RequestMapping("/login")
-    public String login(){
+    public String login() {
         System.out.println("Hello Spring boot");
         return "hello word!";
 
